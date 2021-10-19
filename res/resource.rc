@@ -1,0 +1,6 @@
+#include "../include/resource.hpp"
+
+TEX_TEXT IMAGE "./testtex.png"
+CELL IMAGE "./cell.png"
+BOLD IMAGE "./bold.png"
+BLOCK IMAGE "./block.png"
